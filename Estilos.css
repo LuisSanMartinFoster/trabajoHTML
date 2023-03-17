@@ -1,6 +1,20 @@
-.TextoPerro{
+.contenedor{
 
-    display: flex;
-    justify-content: center;
+    display:flex;
+    align-items: center;
+
+}
+
+.txt{
+
+    margin-right: 50px;
+    width: 0px;
+
+}
+
+.imagen{
+
+    width: 200px;
+    height: 150px; 
 
 }
